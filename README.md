@@ -6,13 +6,12 @@
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-
 <br />
 
 Hi,I'm David Hancock🙌, a Full Stack Developer and Cloud Enthusiast.
 
 
-<img align="right" alt="GIF" src="" />
+<!-- <img align="right" alt="GIF" src="" /> -->
 
 
 **Talking about Personal Stuffs:**
@@ -21,9 +20,7 @@ Hi,I'm David Hancock🙌, a Full Stack Developer and Cloud Enthusiast.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
+
 
 
 
