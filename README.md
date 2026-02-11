@@ -12,7 +12,7 @@
 Hi,I'm David Hancock🙌, a Full Stack Developer and Cloud Enthusiast.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="" />
 
 
 **Talking about Personal Stuffs:**
